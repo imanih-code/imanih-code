@@ -1,6 +1,8 @@
 ![Título principal](main-title.svg)
 
-Aquí desarrollo software. Me enfoco en construir soluciones funcionales y optimizadas, y siempre busco la forma más efectiva de resolver problemas con código.
+<div style="text-align: center; margin-bottom: 30px; color: #B0B0B0; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">
+  Aquí desarrollo software. Me enfoco en construir soluciones funcionales y optimizadas, y siempre busco la forma más efectiva de resolver problemas con código.
+</div>
 
 ---
 
