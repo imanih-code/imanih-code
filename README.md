@@ -1,5 +1,5 @@
-<div style="text-align: center;">
-  ![Título principal](main-title.svg)
+<div style="text-align: center; margin-bottom: 30px;">
+  <img src="main-title.svg" alt="Título principal de mi perfil" style="max-width: 100%; height: auto;">
 </div>
 
 <div style="text-align: center; margin-bottom: 30px; color: #B0B0B0; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">
