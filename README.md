@@ -1,4 +1,11 @@
-# ¡Hola! Soy Italo (imanih-code) 👋
+<div style="text-align: center; padding: 40px 20px; background-color: #1A1A1A; border-bottom: 2px solid #61DAFB; margin-bottom: 30px;">
+  <h1 style="color: #53C7E6; font-family: 'Montserrat', sans-serif; font-size: 3.5em; margin-bottom: 10px; text-shadow: 0 0 15px rgba(97, 218, 251, 0.5);">
+    <span style="color:#585858; text-shadow: 0 0 15px rgba(84, 84, 84, 0.5);">$</span> Hola, me llamo <span style="color:#4DF0A4; text-shadow: 0 0 15px rgba(77, 240, 164, 0.5);">[Italo]</span>
+  </h1>
+  <p style="color: #F8F8F8; font-family: 'Roboto Mono', monospace; font-size: 1.5em; letter-spacing: 2px; opacity: 0.8;">
+    — imanih-code —
+  </p>
+</div>
 
 Aquí desarrollo software. Me enfoco en construir soluciones funcionales y optimizadas, y siempre busco la forma más efectiva de resolver problemas con código.
 
