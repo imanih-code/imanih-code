@@ -1,10 +1,17 @@
-<div style="text-align: center; margin-bottom: 30px;">
-  <img src="main-title.svg" alt="Título principal de mi perfil" style="max-width: 100%; height: auto;">
-</div>
-
-<div style="text-align: center; margin-bottom: 30px; color: #B0B0B0; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">
-  Aquí desarrollo software. Me enfoco en construir soluciones funcionales y optimizadas, y siempre busco la forma más efectiva de resolver problemas con código.
-</div>
+<table width="100%">
+  <tr>
+    <td align="center">
+      <img src="main-title.svg" alt="Título principal de mi perfil" style="max-width: 100%; height: auto;">
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <p style="color: #B0B0B0; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; margin-top: 20px;">
+        Aquí desarrollo software. Me enfoco en construir soluciones funcionales y optimizadas, y siempre busco la forma más efectiva de resolver problemas con código.
+      </p>
+    </td>
+  </tr>
+</table>
 
 ---
 
