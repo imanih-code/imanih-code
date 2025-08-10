@@ -22,7 +22,7 @@ Aquí están algunas de las herramientas y lenguajes con los que me gusta trabaj
 ### Frontend
 
 ![HTML Icon](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS Icon](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![CSS Icon](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css&logoColor=white)
 ![React Icon](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=white) 
 ![JavaScript Icon](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) 
 ![Next.js Icon](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
