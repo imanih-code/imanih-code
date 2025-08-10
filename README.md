@@ -9,15 +9,14 @@ Aquí desarrollo software. Me enfoco en construir soluciones funcionales y optim
 Aquí están algunas de las herramientas y lenguajes con los que me gusta trabajar:
 
 ### Frontend
--   **React** ![React Icon](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=white)
--   **JavaScript** ![JavaScript Icon](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
--   **Next.js** ![Next.js Icon](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+
+[React Icon](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=white) [JavaScript Icon](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) [Next.js Icon](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+
+---
 
 ### Backend
--   **Node.js** ![Node.js Icon](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
--   **Python** ![Python Icon](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
--   **Django** ![Django Icon](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=white)
--   **FastAPI** ![FastAPI Icon](https://img.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+
+[Node.js Icon](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white) [Python Icon](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) [Django Icon](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=white) [FastAPI Icon](https://img.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 
 ### Bases de Datos
 -   **Bases de Datos** 💾 (SQL Server, PostgreSQL)
