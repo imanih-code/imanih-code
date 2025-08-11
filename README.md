@@ -31,10 +31,17 @@ Aquí están algunas de las herramientas y lenguajes con los que me gusta trabaj
 
 ### Backend
 
-![Node.js Icon](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white) ![Python Icon](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Django Icon](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=white) ![FastAPI Icon](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Node.js Icon](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white) 
+![Python Icon](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) 
+![Django Icon](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=white) 
+![FastAPI Icon](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 
 ### Bases de Datos
--   **Bases de Datos** 💾 (SQL Server, PostgreSQL)
+
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![PostgreSQL Icon](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+![SQL Server](https://img.shields.io/badge/-SQL%20Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white)
+![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
 
 ---
 
