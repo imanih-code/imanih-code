@@ -1,7 +1,7 @@
 <table width="100%">
   <tr>
     <td align="center">
-      <img src="main-title.svg" alt="Título principal de mi perfil" style="max-width: 100%; height: auto;">
+      <img src="main-title.svg" alt="Título principal de mi perfil en svg" style="max-width: 100%; height: auto;">
     </td>
   </tr>
   <tr>
